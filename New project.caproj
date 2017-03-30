@@ -10,7 +10,9 @@
     <unique-id>1tn57nkpiec3r</unique-id>
     <saved-with-version>23900</saved-with-version>
     <used-plugins>
+        <plugin author="Scirra" id="Arr" version="1">Array</plugin>
         <plugin author="Scirra" id="Button" version="1">Button</plugin>
+        <plugin author="Scirra" id="List" version="1">List</plugin>
     </used-plugins>
     <used-behaviors />
     <used-effects />
@@ -42,6 +44,15 @@
     <object-folder>
         <object-type name="Button" sid="433894284873603">
             <plugin id="Button" />
+        </object-type>
+        <object-type global="1" name="Array" sid="268678731610640">
+            <plugin id="Arr" />
+        </object-type>
+        <object-type global="1" name="Array2" sid="842520393382153">
+            <plugin id="Arr" />
+        </object-type>
+        <object-type name="List" sid="597893877311771">
+            <plugin id="List" />
         </object-type>
     </object-folder>
     <families />
